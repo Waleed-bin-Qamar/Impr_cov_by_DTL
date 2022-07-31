@@ -1,2 +1,2 @@
-# Impr_cov_by_DTL
-finetuned multiple cnn models on covid dataset and comparing results
+# Improve covid diagnosis by using deep transfer learnng
+finetuned multiple deep learning models on covid dataset
